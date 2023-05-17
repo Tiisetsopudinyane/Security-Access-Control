@@ -1,0 +1,16 @@
+C:\Users\pudin\source\repos\SecurityAccessControl\SecurityAccessControl\bin\Release\SecurityAccessControl.exe.config
+C:\Users\pudin\source\repos\SecurityAccessControl\SecurityAccessControl\bin\Release\SecurityAccessControl.exe
+C:\Users\pudin\source\repos\SecurityAccessControl\SecurityAccessControl\bin\Release\SecurityAccessControl.pdb
+C:\Users\pudin\source\repos\SecurityAccessControl\SecurityAccessControl\bin\Release\EntityFramework.dll
+C:\Users\pudin\source\repos\SecurityAccessControl\SecurityAccessControl\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\pudin\source\repos\SecurityAccessControl\SecurityAccessControl\bin\Release\EntityFramework.xml
+C:\Users\pudin\source\repos\SecurityAccessControl\SecurityAccessControl\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\pudin\source\repos\SecurityAccessControl\SecurityAccessControl\obj\Release\SecurityAccessControl.checklist.resources
+C:\Users\pudin\source\repos\SecurityAccessControl\SecurityAccessControl\obj\Release\SecurityAccessControl.employees.resources
+C:\Users\pudin\source\repos\SecurityAccessControl\SecurityAccessControl\obj\Release\SecurityAccessControl.Form1.resources
+C:\Users\pudin\source\repos\SecurityAccessControl\SecurityAccessControl\obj\Release\SecurityAccessControl.Properties.Resources.resources
+C:\Users\pudin\source\repos\SecurityAccessControl\SecurityAccessControl\obj\Release\SecurityAccessControl.csproj.GenerateResource.cache
+C:\Users\pudin\source\repos\SecurityAccessControl\SecurityAccessControl\obj\Release\SecurityAccessControl.csproj.CoreCompileInputs.cache
+C:\Users\pudin\source\repos\SecurityAccessControl\SecurityAccessControl\obj\Release\SecurityAccessControl.csproj.CopyComplete
+C:\Users\pudin\source\repos\SecurityAccessControl\SecurityAccessControl\obj\Release\SecurityAccessControl.exe
+C:\Users\pudin\source\repos\SecurityAccessControl\SecurityAccessControl\obj\Release\SecurityAccessControl.pdb
